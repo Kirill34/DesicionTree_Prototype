@@ -1,0 +1,121 @@
+<mxfile host="Electron" modified="2024-01-06T09:28:42.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="i-Ks3dTLBk1bUHFU4iMf" version="22.1.11" type="device">
+  <diagram name="Этап 1 - RU" id="BYUriql7j9smPTXgBmF-">
+    <mxGraphModel dx="2849" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Classes&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff66b3&quot;&gt;problem&lt;br&gt;student&lt;br&gt;session&lt;br&gt;answer&lt;br&gt;has_error&lt;br&gt;data_element&lt;br&gt;phrase&lt;br&gt;data_element_identifying(answer)&lt;br&gt;&lt;/font&gt;" expression_0="" expression_1="" expression_2="" expression_3="" expression_4="" expression_5="" expression_6="" expression_7="" expression_8="" expression_9="" expression_10="" expression_11="" expression_12="" expression_13="" expression_14="" expression_15="" expression_16="" expression_17="" expression_18="" expression_19="" expression_20="" expression_21="" expression_22="" expression_23="" expression_24="" expression_25="" expression_26="" expression_27="" expression_28="" expression_29="" expression_30="" expression_31="" expression_32="" expression_33="" expression_34="" expression_35="" expression_36="" id="5BQkz-PA7SiNGCi2qH3s-1">
+          <mxCell style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontColor=#6666FF;align=center;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;" vertex="1" parent="1">
+            <mxGeometry x="-808" y="-1000" width="267" height="130" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5BQkz-PA7SiNGCi2qH3s-2" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;Class and Object properties&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#00CC00&quot;&gt;has_left_border&lt;/font&gt;&amp;nbsp;(&lt;font color=&quot;#fc49a4&quot;&gt;phrase&lt;/font&gt;)&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#000000&quot;&gt;Integer&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#000000&quot;&gt;: 0-999&lt;/font&gt;&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#19c3c0&quot;&gt;isStatic:&lt;/font&gt;&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#000000&quot;&gt;false&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#00CC00&quot;&gt;has_right_border&lt;/font&gt;&amp;nbsp;(&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#fc49a4&quot;&gt;phrase&lt;/font&gt;)&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#000000&quot;&gt;Integer&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#000000&quot;&gt;: 0-999&lt;/font&gt;&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#19c3c0&quot;&gt;isStatic:&lt;/font&gt;&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#000000&quot;&gt;false&lt;/font&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#00CC00&quot;&gt;has_left_border&lt;/font&gt;&amp;nbsp;(&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#fc49a4&quot;&gt;data_element_identifying&lt;/font&gt;)&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#000000&quot;&gt;Integer&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#000000&quot;&gt;: 0-999&lt;/font&gt;&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#19c3c0&quot;&gt;isStatic:&lt;/font&gt;&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#000000&quot;&gt;false&lt;/font&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#00CC00&quot;&gt;has_right_border&lt;/font&gt;&amp;nbsp;(&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#fc49a4&quot;&gt;data_element_identifying&lt;/font&gt;)&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#000000&quot;&gt;Integer&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#000000&quot;&gt;: 0-999&lt;/font&gt;&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#19c3c0&quot;&gt;isStatic:&lt;/font&gt;&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#000000&quot;&gt;false&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontColor=#00CCCC;align=center;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="-527.47" y="-1140" width="667.47" height="140" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;Relationships between objects&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#00cccc&quot;&gt;has_data&lt;/font&gt;&amp;nbsp;&lt;font color=&quot;#6666FF&quot;&gt;classes:&lt;/font&gt; &lt;font color=&quot;#ff66b3&quot;&gt;problem, data_element&lt;/font&gt;&amp;nbsp;&lt;font color=&quot;#6666FF&quot;&gt;is relationship between classes:&lt;/font&gt; &lt;font color=&quot;#000000&quot;&gt;false&lt;/font&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font color=&quot;#00cccc&quot;&gt;describes&lt;/font&gt;&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#6666FF&quot;&gt;classes:&lt;/font&gt;&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#ff66b3&quot;&gt;phrase, data_element&lt;/font&gt;&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#6666FF&quot;&gt;is relationship between classes:&lt;/font&gt;&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#000000&quot;&gt;false&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#00cccc&quot;&gt;has_error&lt;/font&gt;&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#6666FF&quot;&gt;classes:&lt;/font&gt;&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#ff66b3&quot;&gt;answer, error&lt;/font&gt;&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#6666FF&quot;&gt;is relationship between classes:&lt;/font&gt;&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#000000&quot;&gt;false&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;" namesRels_0="" binFlags_0="010100" namesRels_1="" binFlags_1="010100" namesRels_2="" binFlags_2="000000" namesRels_3="" binFlags_3="000000" namesRels_4="" binFlags_4="000000" namesRels_5="" binFlags_5="000000" namesRels_6="" binFlags_6="000000" namesRels_7="" binFlags_7="000000" namesRels_8="" binFlags_8="000000" namesRels_9="" binFlags_9="000000" namesRels_10="" binFlags_10="000000" namesRels_11="" binFlags_11="000000" namesRels_12="" binFlags_12="000000" namesRels_13="" binFlags_13="000000" namesRels_14="" binFlags_14="000000" namesRels_15="" binFlags_15="000000" namesRels_16="" binFlags_16="000000" namesRels_17="" binFlags_17="000000" namesRels_18="" binFlags_18="000000" namesRels_19="" binFlags_19="000000" namesRels_20="" binFlags_20="000000" namesRels_21="" binFlags_21="000010" namesRels_22="" binFlags_22="000000" namesRels_23="" binFlags_23="000000" namesRels_24="" binFlags_24="000000" namesRels_25="" binFlags_25="000000" namesRels_26="" binFlags_26="000000" id="5BQkz-PA7SiNGCi2qH3s-3">
+          <mxCell style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontColor=#000000;align=center;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;" vertex="1" parent="1">
+            <mxGeometry x="-527.47" y="-793.88" width="509.47" height="163.88" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5BQkz-PA7SiNGCi2qH3s-4" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Enum&lt;/b&gt;&lt;/font&gt;&lt;br&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontColor=#6666FF;align=center;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="-1367" y="-1001" width="545" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="5BQkz-PA7SiNGCi2qH3s-5" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;НАЧАЛО&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-1020" width="146" height="100" as="geometry" />
+        </mxCell>
+        <UserObject label="A - answer&lt;br&gt;P - phrase" type="START" id="5BQkz-PA7SiNGCi2qH3s-6">
+          <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;" vertex="1" parent="1">
+            <mxGeometry x="243" y="-870" width="120" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5BQkz-PA7SiNGCi2qH3s-7" value="&lt;br&gt;Соответствует ли ответ&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;A&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;какой-либо фразе &lt;b&gt;P, &lt;/b&gt;описывающей элемент данных&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;?&lt;/b&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-850" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5BQkz-PA7SiNGCi2qH3s-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5BQkz-PA7SiNGCi2qH3s-6" target="5BQkz-PA7SiNGCi2qH3s-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="376" y="-802.88" as="sourcePoint" />
+            <mxPoint x="486" y="-793.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Найти фразу &lt;b&gt;P&lt;/b&gt;&amp;nbsp; в задаче - &lt;b&gt;T&lt;/b&gt;" expression="find a { exist al [ $al is act ] { $al-&gt;student_next_latest($a) } and $p is phrase } " typeVar="phrase" nameVar="P" id="5BQkz-PA7SiNGCi2qH3s-9">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;" vertex="1" parent="1">
+            <mxGeometry x="240" y="-720" width="126" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Начало" value="" type="bool" id="5BQkz-PA7SiNGCi2qH3s-10">
+          <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5BQkz-PA7SiNGCi2qH3s-6" target="5BQkz-PA7SiNGCi2qH3s-9">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="150" y="-720" as="sourcePoint" />
+              <mxPoint x="150" y="-679" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Найти левую границу &lt;b&gt;PL&lt;/b&gt; фразы&amp;nbsp;&lt;b&gt;P&lt;/b&gt;&amp;nbsp;" expression="$p-&gt;has_left_border" typeVar="integer" nameVar="PL" id="5BQkz-PA7SiNGCi2qH3s-11">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;" vertex="1" parent="1">
+            <mxGeometry x="240" y="-614" width="126" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Found" typeValue="" value="Found" id="5BQkz-PA7SiNGCi2qH3s-12">
+          <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5BQkz-PA7SiNGCi2qH3s-9" target="5BQkz-PA7SiNGCi2qH3s-11">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="160" y="-630" as="sourcePoint" />
+              <mxPoint x="160" y="-587" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Найти правую границу &lt;b&gt;PR&lt;/b&gt;&amp;nbsp;фразы&amp;nbsp;&lt;b&gt;P&lt;/b&gt;&amp;nbsp;" expression="$p-&gt;has_right_border" typeVar="integer" nameVar="PR" id="5BQkz-PA7SiNGCi2qH3s-13">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;" vertex="1" parent="1">
+            <mxGeometry x="243" y="-520" width="126" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Found" typeValue="" value="Found" id="5BQkz-PA7SiNGCi2qH3s-15">
+          <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5BQkz-PA7SiNGCi2qH3s-11" target="5BQkz-PA7SiNGCi2qH3s-13">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="392" y="-533" as="sourcePoint" />
+              <mxPoint x="392" y="-487" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Найти левую границу &lt;b&gt;AL&lt;/b&gt;&amp;nbsp;ответа &lt;b&gt;A&lt;/b&gt;&amp;nbsp;" expression="$a-&gt;has_left_border" typeVar="integer" nameVar="AL" id="5BQkz-PA7SiNGCi2qH3s-16">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;" vertex="1" parent="1">
+            <mxGeometry x="243" y="-420" width="126" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Найти правую границу&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;AR&lt;/b&gt;&amp;nbsp;ответа&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;A&lt;/b&gt;&amp;nbsp;" expression="$a-&gt;has_right_border" typeVar="integer" nameVar="AR" id="5BQkz-PA7SiNGCi2qH3s-17">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;" vertex="1" parent="1">
+            <mxGeometry x="243" y="-310" width="126" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Found" typeValue="" value="Found" id="5BQkz-PA7SiNGCi2qH3s-18">
+          <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="5BQkz-PA7SiNGCi2qH3s-16" target="5BQkz-PA7SiNGCi2qH3s-17" parent="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="395" y="-313" as="sourcePoint" />
+              <mxPoint x="395" y="-267" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Found" typeValue="" value="Found" id="5BQkz-PA7SiNGCi2qH3s-19">
+          <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="5BQkz-PA7SiNGCi2qH3s-16" parent="1" source="5BQkz-PA7SiNGCi2qH3s-13">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="306" y="-440" as="sourcePoint" />
+              <mxPoint x="163" y="-367" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Совпадают ли границы&amp;nbsp;&lt;b&gt;PL&lt;/b&gt; и&amp;nbsp;&lt;b&gt;AL&lt;/b&gt; ?" expression="var:B == var:Z" id="5BQkz-PA7SiNGCi2qH3s-20">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;" vertex="1" parent="1">
+            <mxGeometry x="226" y="-210.00000000000006" width="160" height="65" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Found" typeValue="" value="Found" id="5BQkz-PA7SiNGCi2qH3s-21">
+          <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5BQkz-PA7SiNGCi2qH3s-17" target="5BQkz-PA7SiNGCi2qH3s-20">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="430" y="-220" as="sourcePoint" />
+              <mxPoint x="590" y="-220" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
